@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>media/smarthomeIcon.png</file>
+        <file>media/smarthomeIcon2.png</file>
+    </qresource>
+</RCC>

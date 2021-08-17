@@ -1,0 +1,10 @@
+
+1.列举电脑上的可用串口
+"HKEY_LOCAL_MACHINE\\HARDWARE\\DEVICEMAP\\SERIALCOMM\\"
+helpLink:
+https://blog.csdn.net/kongzhongloucsdn/article/details/54580885
+
+2.主窗口关闭，子窗口应该关闭
+setAttribute(Qt::WA_QuitOnClose,false);
+
+https://blog.csdn.net/qq_40754866/article/details/109217799

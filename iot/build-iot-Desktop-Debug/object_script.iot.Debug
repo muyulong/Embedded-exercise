@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\win_qextserialport.o
+./debug\qextserialport.o
+./debug\qextserialbase.o
+./debug\dialog.o
+./debug\qextserialenumerator.o
+./debug\moc_widget.o
+./debug\moc_win_qextserialport.o
+./debug\moc_qextserialport.o
+./debug\moc_qextserialbase.o
+./debug\moc_dialog.o
+./debug\qrc_res.o
+);

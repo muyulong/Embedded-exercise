@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>E:/证件照/1622721375256.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>E:/证件照/1622721375256.jpg</file>
+    </qresource>
+</RCC>

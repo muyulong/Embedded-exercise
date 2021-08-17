@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/pic">
+        <file>app.ico</file>
+        <file>material.png</file>
+        <file>photo_2.jpg</file>
+        <file>images/帮助.PNG</file>
+        <file>images/查看文件.PNG</file>
+        <file>images/登录.png</file>
+        <file>images/关于系统.PNG</file>
+        <file>images/收发文件.PNG</file>
+        <file>images/收发字符.PNG</file>
+        <file>images/通信设置.PNG</file>
+        <file>images/修改.PNG</file>
+        <file>images/意见反馈.PNG</file>
+        <file>images/注册.PNG</file>
+    </qresource>
+</RCC>

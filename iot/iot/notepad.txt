@@ -1,0 +1,17 @@
+模态对话框
+https://blog.csdn.net/qq_24188351/article/details/78391025
+父子窗口
+https://blog.csdn.net/u014453898/article/details/70255826
+https://blog.csdn.net/rong11417/article/details/88710849
+https://blog.csdn.net/qq_42100881/article/details/80176165
+connect函数的几种用法
+https://blog.csdn.net/zqxdsy/article/details/89161065
+官网
+https://doc.qt.io/qt-5/qserialportinfo.html#details
+qextserialport如何获取系统可用串口号
+https://jingyan.baidu.com/article/020278115653b81bcd9ce579.html
+最新的库已经更新到了qextserialport-1.2rc
+https://blog.csdn.net/a826319028/article/details/12384395
+下载最新库
+https://code.google.com/archive/p/qextserialport/downloads
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/qextserialport/qextserialport-1.2rc.zip
